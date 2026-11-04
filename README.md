@@ -13,6 +13,7 @@ Die Karte visualisiert die Berliner Sozialstruktur 2025 auf Basis der 542 Lebens
 
 Die räumliche Verschneidung und kartografische Aufbereitung erfolgte vollständig in QGIS. Die Einstufung der Planungsräume macht soziale Brennpunkte ebenso wie einkommensstärkere Quartiere auf einen Blick lesbar und zeigt das reale Gefälle innerhalb der Metropole.
 
+
 ## EP. 01 | UE 2 | Datenklassifikation
 ### Objekt betrachtet? – Bevölkerungsverteilungen in Berlins LOR (2019)
 
