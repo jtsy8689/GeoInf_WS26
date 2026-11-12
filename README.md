@@ -26,3 +26,6 @@ Dieselben Rohdaten zur Bevölkerung Berlins erzeugen je nach gewählter Klassifi
 ### Erkenntnis der Methode:
 
 Während absolute Zahlen vor allem dichte Wohnquartiere und große Flächen betonen, offenbaren klassifizierte Dichtekarten ganz unterschiedliche Cluster und Konzentrationen. Die Wahl der Klassengrenzen beeinflusst maßgeblich, welche Stadtteile als „hochbelastet“ oder „dünn besiedelt“ wahrgenommen werden – ein essenzielles Werkzeug für eine objektive raumplanerische Analyse.
+
+
+<img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/4099e24d-97b1-4685-949d-dbe7458e3472" />
