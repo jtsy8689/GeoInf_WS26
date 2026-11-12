@@ -29,3 +29,5 @@ Während absolute Zahlen vor allem dichte Wohnquartiere und große Flächen beto
 
 
 <img width="1171" height="922" alt="image" src="https://github.com/user-attachments/assets/4099e24d-97b1-4685-949d-dbe7458e3472" />
+
+
