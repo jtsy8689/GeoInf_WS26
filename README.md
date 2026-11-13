@@ -28,5 +28,13 @@ Dieselben Rohdaten zur Bevölkerung Berlins erzeugen je nach gewählter Klassifi
 Während absolute Zahlen vor allem dichte Wohnquartiere und große Flächen betonen, offenbaren klassifizierte Dichtekarten ganz unterschiedliche Cluster und Konzentrationen. Die Wahl der Klassengrenzen beeinflusst maßgeblich, welche Stadtteile als „hochbelastet“ oder „dünn besiedelt“ wahrgenommen werden – ein essenzielles Werkzeug für eine objektive raumplanerische Analyse.
 
 ## EP. 03 | Standortanalyse
-
+### Konfliktfreier Raum für Großveranstaltungen – Potenzialflächen für ein Open-Air-Festival in Berlin
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/fcd02c3f-897f-437a-a2d6-8ba7a9f9a1b5" />
+
+### Wo in Berlin lassen sich geeignete Flächen für ein lärmintensives Open-Air-Festival finden?
+
+Die Karte identifiziert sechs geeignete Großflächen im Berliner Stadtgebiet (zwischen 13,4 ha und 176,1 ha in Spandau, Reinickendorf, Steglitz-Zehlendorf, Charlottenburg-Wilmersdorf, Mitte und Tempelhof-Schöneberg), die sämtliche Lärmschutz-, Umwelt- und Infrastrukturkriterien erfüllen. Durch die Gegenüberstellung der allgemeinen Freiflächen und der finalen Eignungsstandorte wird deutlich, wie stark besonders die notwendige ÖPNV-Anbindung und Mindestflächengröße das Potenzial eingrenzen.
+
+### Methodischer Ansatz:
+
+Die räumliche Verschneidung und Pufferanalyse erfolgte vollständig in QGIS im metrischen Koordinatensystem ETRS89 / UTM Zone 33N (EPSG:25833) auf Grundlage von OpenStreetMap- und Geoportal-Berlin-Daten. Mittels boolescher Differenz-Operationen wurden Sperrzonen (500 m Abstand zu Wohngebieten, 300 m zu Naturschutzgebieten sowie Wasserflächen) ausgeschlossen und anschließend mit einem 1.000-m-ÖPNV-Einzugsbereich sowie einer Mindestfläche von 2,0 Hektar gefiltert.
