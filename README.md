@@ -29,7 +29,7 @@ Während absolute Zahlen vor allem dichte Wohnquartiere und große Flächen beto
 
 ## EP. 03 | Standortanalyse
 ### Konfliktfreier Raum für Großveranstaltungen – Potenzialflächen für ein Open-Air-Festival in Berlin
-<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/fcd02c3f-897f-437a-a2d6-8ba7a9f9a1b5" />
+
 
 ### Wo in Berlin lassen sich geeignete Flächen für ein lärmintensives Open-Air-Festival finden?
 
